@@ -28,6 +28,6 @@ python3 -m bot
 
 - Telegram Updates Channel : (https://t.me/Badshah_Adding_Services)
 
-## Contributions
+## Video Tutorial
 
-Contributions are always accepted. Feel free to commit. With ❤️ Badshah
+Join my YouTube channel and see this Video 

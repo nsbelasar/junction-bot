@@ -26,9 +26,8 @@ python3 -m bot
 
 ## Community
 
-- Telegram Support Chat : [@KeralasBots](https://telegram.dog/KeralasBots)
-- Telegram Updates Channel : [KeralaBotsNews](https://telegram.dog/KeralaBotsNews)
+- Telegram Updates Channel : (https://t.me/Badshah_Adding_Services)
 
 ## Contributions
 
-Contributions are always accepted. Feel free to commit. With ❤️ Anand
+Contributions are always accepted. Feel free to commit. With ❤️ Badshah

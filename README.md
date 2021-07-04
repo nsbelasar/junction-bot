@@ -18,7 +18,7 @@ A Junction Bot which can forward messages from one chat to multiple chats. This 
 #### The Hard Way
 
 ```
-git clone https://github.com/Anandpskerala/JunctionBot.git
+git clone https://github.com/nsbelasar/junction-bot/tree/v1.git
 cd JunctionBot
 pip3 install -r requirements.txt
 python3 -m bot
